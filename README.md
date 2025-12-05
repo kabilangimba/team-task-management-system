@@ -253,9 +253,6 @@ For a full production guide see `DEPLOYMENT.md` (add this file if not present).
 
 
 ## credentials for demo
-for admin
-username:admin@admin.com
-password:admin.123###
 
 for member
 username:member@demo.com
